@@ -50,7 +50,7 @@ released under the Apache License, version 2.0
 
 * Fixed a bug unregistering combos using arrays of keys
 * Added ie8 compatibility shim. Thanks to [barrkel](https://github.com/barrkel). [Issue #41](https://github.com/dmauro/Keypress/issues/41)
-* Fixed a bug targetting the semicolon key in Firefox. Thanks to [mikekuehn](https://github.com/mikekuehn).
+* Fixed a bug targeting the semicolon key in Firefox. Thanks to [mikekuehn](https://github.com/mikekuehn).
 * Added commonJS module support. [Issue #45](https://github.com/dmauro/Keypress/issues/45)
 
 2.0.2
